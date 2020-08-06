@@ -34,5 +34,5 @@
 [twitter]: https://twitter.com/layetri_p
 [youtube]: https://youtube.com/user/layetri
 [instagram]: https://instagram.com/layetri
-[linkedin]: https://linkedin.com/in/dkamp
+[linkedin]: https://linkedin.com/in/dwkamp
 [soundcloud]: https://soundcloud.com/layetri
