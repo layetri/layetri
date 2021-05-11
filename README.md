@@ -38,3 +38,5 @@
 [instagram]: https://instagram.com/layetri
 [linkedin]: https://linkedin.com/in/dwkamp
 [soundcloud]: https://soundcloud.com/layetri
+
+![](https://hit.yhype.me/github/profile?user_id=8854301)
