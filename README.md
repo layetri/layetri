@@ -3,6 +3,7 @@
 - 🎤 Vocaloid producer and lead of teamLayetri
 - 💻 Owner & Developer at MainstreamCT
 - 💡 Project Lead and Developer for the Pettenvolk project
+- 🍩 Creator of Donut
 
 ### Connect with me:
 
