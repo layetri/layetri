@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniël aka [layetri][website] 👋
 - 🎓 Audio Design student at HKU University of the Arts, Utrecht
 - 🎤 Vocaloid producer and lead of teamLayetri
-- 💻 Owner & Full-Stack Web Developer at MainstreamCT
+- 💻 Owner & Developer at MainstreamCT
 - 💡 Project Lead and Developer for the Pettenvolk project
 
 ### Connect with me:
@@ -17,6 +17,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -31,7 +32,7 @@
 <br />
 <br />
 
-[website]: https://layetri.nl
+[website]: https://layetri.net
 [twitter]: https://twitter.com/layetri_p
 [youtube]: https://youtube.com/user/layetri
 [instagram]: https://instagram.com/layetri
