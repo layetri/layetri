@@ -1,8 +1,9 @@
 ### Hi there, I'm Daniël aka [layetri][website] 👋
 - 🎓 Audio Design student at HKU University of the Arts, Utrecht
 - 🎤 Vocaloid producer and lead of teamLayetri
-- 💻 Owner & Developer at MainstreamCT
+- 💻 Owner & Developer at ExpressiveLabs
 - 💡 Project Lead and Developer for the Pettenvolk project
+- 👩‍🎤 Project Lead and Developer of the Mikoto singing synthesis platform
 - 🍩 Creator of Donut
 
 ### Connect with me:
