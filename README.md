@@ -1,8 +1,7 @@
 ### Hi there, I'm [layetri][website] 👋
 - 🎓 Audio Design student at HKU University of the Arts, Utrecht
 - 🎤 Vocaloid producer and lead of teamLayetri
-- 💻 Owner & Developer at [ExpressiveLabs](https://expressivelabs.net/)
-- 💡 Project Lead and Developer for the Pettenvolk project
+- 💻 Founder & Lead Developer at [ExpressiveLabs](https://expressivelabs.net/)
 - 👩‍🎤 Project Lead and Developer of [Mikoto](https://mikoto.studio/), a next-gen singing synthesizer
 - 🍩 Creator of Donut
 
